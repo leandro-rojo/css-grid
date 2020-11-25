@@ -26,6 +26,7 @@ body {
   display: grid;
   gap: 1.6em;
   grid-template-columns: repeat(5, 1fr);
+  border-radius: 15px;
 }
 
 .container > .header,
@@ -36,6 +37,7 @@ body {
   background: #fff;
   padding: 20px;
   border: 1px solid #000000;
+  border-radius: 12px;
 }
 
 .container .header,
@@ -73,6 +75,7 @@ body {
 .container .sidebar img {
   width: 100%;
   margin-top: 5px;
+  border-radius: 5px;
 }
 
 /* related-post*/
