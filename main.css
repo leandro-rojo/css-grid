@@ -141,7 +141,7 @@ body {
 }
 .container .related-post:hover .text{
   position: absolute;
-  background-color:darkslategrey; 
+  background-color:rgb(6, 90, 76); 
   filter:alpha(opacity=60); 
   opacity:.6; 
   font-size: 22px;
