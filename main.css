@@ -6,6 +6,7 @@
 body {
   background: rgb(3,33,12);
   background: linear-gradient(0deg, rgba(3,33,12,1) 0%, rgba(17,218,78,0.8239670868347339) 55%, rgba(151,247,180,1) 100%);
+  background-color: 100%;
   font-family: "Comic Neue", cursive;
 }
 
