@@ -121,7 +121,7 @@ body {
 }
 .container .related-post .text{
   position: absolute;
-  background-color: cornflowerblue; 
+  background-color: rgb(9, 155, 106); 
   filter:alpha(opacity=60); 
   opacity:.6; 
   font-size: 22px;
